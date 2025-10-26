@@ -62,4 +62,10 @@ It covers every stage from data ingestion, transformation, and storage to servin
 
 ---
 
-## 📁 Project Structure
+## ✍️ Created By
+**Arsath Mohamed**  
+🔗 [GitHub Profile][(https://github.com/arsathmohamed)](https://github.com/ArsathMohamed351)
+
+---
+
+⭐ If you like this project, don’t forget to give it a star on GitHub!
